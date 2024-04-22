@@ -1,0 +1,3 @@
+- [🌌] .NET Developer
+- [💾] Web & Desktop
+- [🌐] English
